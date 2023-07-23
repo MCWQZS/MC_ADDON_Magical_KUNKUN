@@ -1,0 +1,15 @@
+{
+    "resource_pack_name": "Magical_KUNKUN_Resources",
+    "texture_data": {
+        "xhz_dangerous_high_tech_highly_tox": {
+            "textures": "textures/items/Dangerous_high_tech_highly_tox"
+        },
+        "xhz_strange_tech_products": {
+            "textures": "textures/items/Dangerous_high_tech_highly_tox"
+        },
+        "xhz_basketball": {
+            "textures": "textures/items/lq"
+        }   
+    },
+    "texture_name": "atlas.items"
+}

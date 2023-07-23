@@ -1,0 +1,61 @@
+{
+    "dy_load_list": [
+
+    ],
+    "format_version": "1.14.0",
+    "sound_definitions": {
+        "mob.chicken_xhz_00.death": {
+            "category": "neutral",
+            "sounds": [
+                {
+                    "name": "sounds/mob/chicken_xhz_00/death1"
+                }
+            ]
+        },
+        "mob.chicken_xhz_00.hurt": {
+            "category": "neutral",
+            "sounds": [
+                {
+                    "name": "sounds/mob/chicken_xhz_00/hurt1"
+                },
+                {
+                    "name": "sounds/mob/chicken_xhz_00/hurt2"
+                }
+            ]
+        },
+        "mob.chicken_xhz_00.plop": {
+            "category": "neutral",
+            "sounds": [
+                {
+                    "name": "sounds/mob/chicken_xhz_00/plop"
+                }
+            ]
+        },
+        "mob.chicken_xhz_00.say": {
+            "category": "neutral",
+            "sounds": [
+                {
+                    "name": "sounds/mob/chicken_xhz_00/say"
+                },
+                {
+                    "name": "sounds/mob/chicken_xhz_00/say1"
+                },
+                {
+                    "load_on_low_memory": true,
+                    "name": "sounds/mob/chicken_xhz_00/say2"
+                }
+            ]
+        },
+        "mob.chicken_xhz_00.step": {
+            "category": "neutral",
+            "sounds": [
+                {
+                    "name": "sounds/mob/chicken_xhz_00/step"
+                },
+                {
+                    "name": "sounds/mob/chicken_xhz_00/step"
+                }
+            ]
+        }
+    }
+}

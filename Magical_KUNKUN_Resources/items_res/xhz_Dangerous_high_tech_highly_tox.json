@@ -1,0 +1,13 @@
+{
+    "format_version": "1.10",
+    "minecraft:item": {
+        "components": {
+            "minecraft:icon": "xhz:Dangerous_high_tech_highly_tox"
+        },
+        "description": {
+            "category": "Items",
+            "identifier": "xhz:Dangerous_high_tech_highly_tox",
+            "register_to_create_menu": true
+        }
+    }
+}

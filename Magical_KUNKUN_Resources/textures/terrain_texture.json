@@ -1,0 +1,9 @@
+{
+    "resource_pack_name": "Magical_KUNKUN_Resources",
+    "texture_data": {
+        "xhz:strange_basketball_ore": {
+            "textures": "textures/blocks/strange_basketball_ore"
+        }
+    },
+    "texture_name": "atlas.terrain"
+}

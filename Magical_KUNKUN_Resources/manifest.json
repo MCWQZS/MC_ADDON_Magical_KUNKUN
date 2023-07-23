@@ -1,0 +1,18 @@
+{
+  "format_version": 2,
+  "header": {
+    "description": "Magical_KUNKUN BY WQZS(WWW.WQZS.VIP)",
+    "name": "Magical_KUNKUN BY WQZS(WWW.WQZS.VIP)",
+    "uuid":"583f1966-5b6a-43b8-884d-34403b58fcb1",
+    "version": [1, 0, 0],
+    "min_engine_version": [1, 16, 0]
+   },
+  "modules": [
+    {
+      "description": "Magical_KUNKUN BY WQZS(WWW.WQZS.VIP)",
+      "type": "resources",
+      "uuid": "d9806d35-21fb-4f53-9c97-36d5a44c6fa1",
+      "version": [1, 0, 0]
+    }
+  ]
+ }

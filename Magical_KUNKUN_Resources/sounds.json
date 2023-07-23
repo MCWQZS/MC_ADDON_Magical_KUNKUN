@@ -1,0 +1,21 @@
+{
+	"entity_sounds": {
+		"entities": {
+			"xhz:chicken_xhz_00": {
+				"events": {
+					"ambient": "mob.chicken_xhz_00.say",
+					"death": "mob.chicken_xhz_00.death",
+					"hurt": "mob.chicken_xhz_00.hurt",
+					"plop": "mob.chicken_xhz_00.plop",
+					"step": {
+						"pitch": 1,
+						"sound": "mob.chicken_xhz_00.step",
+						"volume": 0.25
+					}
+				},
+				"pitch": [0.8, 1.2],
+				"volume": 1
+			}
+		}
+	}
+}

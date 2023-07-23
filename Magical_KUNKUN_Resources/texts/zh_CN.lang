@@ -1,0 +1,9 @@
+item.spawn_egg.entity.xhz:chicken_xhz_00.name=有个性的鸡
+item.xhz:basketball.name=奇怪的篮球
+entity.xhz:chicken_xhz_00.name=有个性的鸡
+tile.xhz:strange_basketball_ore.name=奇怪的篮球矿物方块
+item.xhz:dangerous_high_tech_highly_tox.name=科技与狠活(产品代号:K)
+item.xhz:strange_tech_products.name=奇怪的科技产品(产品代号:K)
+feature.xhz:strange_basketball_ore.name=奇怪的篮球矿物方块
+feature.xhz:strange_basketball_ore_rules.name=strange_basketball_ore_rules
+featurerules.xhz:overworld_underground_strange_basketball_ore_rules.name=overworld_underground_strange_basketball_ore_rules
