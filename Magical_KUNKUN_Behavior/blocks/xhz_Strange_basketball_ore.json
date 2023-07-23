@@ -1,0 +1,28 @@
+{
+    "format_version": "1.16.100",
+    "minecraft:block": {
+        "description": {
+            "identifier": "xhz:strange_basketball_ore"
+        },
+        "components": {
+            "minecraft:creative_category": {
+                "category": "Nature"
+            },
+            "minecraft:block_light_emission": {
+                "emission": 1.0
+            },
+            "minecraft:destroy_time": 9.0,
+            "minecraft:map_color": {
+                "color": "#c95e00"
+            },
+            "minecraft:destructible_by_mining": {
+                "seconds_to_destroy": 10
+            },
+            "minecraft:material_instances": {
+                "*": {
+                    "texture": "strange_basketball_ore"
+                }
+            }
+        }
+    }
+}

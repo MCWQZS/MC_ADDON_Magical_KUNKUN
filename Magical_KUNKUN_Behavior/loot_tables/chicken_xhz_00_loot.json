@@ -1,0 +1,829 @@
+{
+    "pools": [
+        {
+            "entries": [
+                {
+                    "functions": [
+                        {
+                            "count": {
+                                "max": 2,
+                                "min": 1
+                            },
+                            "function": "set_count"
+                        },
+                        {
+                            "data": 0,
+                            "function": "set_data"
+                        }
+                    ],
+                    "name": "xhz:basketball",
+                    "type": "item",
+                    "weight": 8
+                },
+                {
+                    "functions": [
+                        {
+                            "count": {
+                                "max": 2,
+                                "min": 1
+                            },
+                            "function": "set_count"
+                        },
+                        {
+                            "data": 0,
+                            "function": "set_data"
+                        }
+                    ],
+                    "name": "minecraft:apple",
+                    "type": "item",
+                    "weight": 2
+                },
+                {
+                    "functions": [
+                        {
+                            "count": {
+                                "max": 1,
+                                "min": 0
+                            },
+                            "function": "set_count"
+                        },
+                        {
+                            "data": 0,
+                            "function": "set_data"
+                        }
+                    ],
+                    "name": "minecraft:crying_obsidian",
+                    "type": "item",
+                    "weight": 1
+                },
+                {
+                    "functions": [
+                        {
+                            "count": {
+                                "max": 1,
+                                "min": 0
+                            },
+                            "function": "set_count"
+                        },
+                        {
+                            "data": 0,
+                            "function": "set_data"
+                        }
+                    ],
+                    "name": "minecraft:netherite_sword",
+                    "type": "item",
+                    "weight": 1
+                },
+                {
+                    "functions": [
+                        {
+                            "count": {
+                                "max": 1,
+                                "min": 1
+                            },
+                            "function": "set_count"
+                        },
+                        {
+                            "data": 0,
+                            "function": "set_data"
+                        }
+                    ],
+                    "name": "minecraft:iron_sword",
+                    "type": "item",
+                    "weight": 2
+                },
+                {
+                    "functions": [
+                        {
+                            "count": {
+                                "max": 10,
+                                "min": 0
+                            },
+                            "function": "set_count"
+                        },
+                        {
+                            "data": 0,
+                            "function": "set_data"
+                        }
+                    ],
+                    "name": "minecraft:diamond",
+                    "type": "item",
+                    "weight": 1
+                },
+                {
+                    "functions": [
+                        {
+                            "count": {
+                                "max": 2,
+                                "min": 1
+                            },
+                            "function": "set_count"
+                        },
+                        {
+                            "data": 0,
+                            "function": "set_data"
+                        }
+                    ],
+                    "name": "xhz:Strange_tech_products",
+                    "type": "item",
+                    "weight": 1
+                },
+                {
+                    "functions": [
+                        {
+                            "count": {
+                                "max": 6,
+                                "min": 1
+                            },
+                            "function": "set_count"
+                        },
+                        {
+                            "data": 0,
+                            "function": "set_data"
+                        }
+                    ],
+                    "name": "minecraft:chorus_flower",
+                    "type": "item",
+                    "weight": 2
+                }
+            ],
+            "rolls": 1
+        },
+        {
+            "entries": [
+                {
+                    "functions": [
+                        {
+                            "count": {
+                                "max": 1,
+                                "min": 0
+                            },
+                            "function": "set_count"
+                        },
+                        {
+                            "data": 0,
+                            "function": "set_data"
+                        }
+                    ],
+                    "name": "minecraft:shield",
+                    "type": "item",
+                    "weight": 1
+                },
+                {
+                    "functions": [
+                        {
+                            "count": {
+                                "max": 3,
+                                "min": 0
+                            },
+                            "function": "set_count"
+                        },
+                        {
+                            "data": 0,
+                            "function": "set_data"
+                        }
+                    ],
+                    "name": "minecraft:ender_pearl",
+                    "type": "item",
+                    "weight": 1
+                },
+                {
+                    "functions": [
+                        {
+                            "count": {
+                                "max": 5,
+                                "min": 0
+                            },
+                            "function": "set_count"
+                        },
+                        {
+                            "data": 0,
+                            "function": "set_data"
+                        }
+                    ],
+                    "name": "minecraft:egg",
+                    "type": "item",
+                    "weight": 1
+                },
+                {
+                    "functions": [
+                        {
+                            "count": {
+                                "max": 3,
+                                "min": 0
+                            },
+                            "function": "set_count"
+                        },
+                        {
+                            "data": 0,
+                            "function": "set_data"
+                        }
+                    ],
+                    "name": "minecraft:redstone_block",
+                    "type": "item",
+                    "weight": 1
+                },
+                {
+                    "functions": [
+                        {
+                            "count": {
+                                "max": 6,
+                                "min": 1
+                            },
+                            "function": "set_count"
+                        },
+                        {
+                            "data": 0,
+                            "function": "set_data"
+                        }
+                    ],
+                    "name": "minecraft:amethyst_cluster",
+                    "type": "item",
+                    "weight": 1
+                },
+                {
+                    "functions": [
+                        {
+                            "count": {
+                                "max": 32,
+                                "min": 1
+                            },
+                            "function": "set_count"
+                        },
+                        {
+                            "data": 0,
+                            "function": "set_data"
+                        }
+                    ],
+                    "name": "minecraft:log",
+                    "type": "item",
+                    "weight": 1
+                },
+                {
+                    "functions": [
+                        {
+                            "count": {
+                                "max": 6,
+                                "min": 1
+                            },
+                            "function": "set_count"
+                        },
+                        {
+                            "data": 0,
+                            "function": "set_data"
+                        }
+                    ],
+                    "name": "minecraft:experience_bottle",
+                    "type": "item",
+                    "weight": 1
+                },
+                {
+                    "functions": [
+                        {
+                            "count": {
+                                "max": 1,
+                                "min": 1
+                            },
+                            "function": "set_count"
+                        },
+                        {
+                            "data": 0,
+                            "function": "set_data"
+                        }
+                    ],
+                    "name": "minecraft:axolotl_bucket",
+                    "type": "item",
+                    "weight": 1
+                },
+                {
+                    "functions": [
+                        {
+                            "count": {
+                                "max": 5,
+                                "min": 1
+                            },
+                            "function": "set_count"
+                        },
+                        {
+                            "data": 0,
+                            "function": "set_data"
+                        }
+                    ],
+                    "name": "minecraft:netherite_scrap",
+                    "type": "item",
+                    "weight": 1
+                },
+                {
+                    "functions": [
+                        {
+                            "count": {
+                                "max": 2,
+                                "min": 1
+                            },
+                            "function": "set_count"
+                        },
+                        {
+                            "data": 0,
+                            "function": "set_data"
+                        }
+                    ],
+                    "name": "minecraft:lava_bucket",
+                    "type": "item",
+                    "weight": 1
+                },
+                {
+                    "functions": [
+                        {
+                            "count": {
+                                "max": 3,
+                                "min": 0
+                            },
+                            "function": "set_count"
+                        },
+                        {
+                            "data": 0,
+                            "function": "set_data"
+                        }
+                    ],
+                    "name": "minecraft:blaze_rod",
+                    "type": "item",
+                    "weight": 1
+                },
+                {
+                    "functions": [
+                        {
+                            "count": {
+                                "max": 6,
+                                "min": 1
+                            },
+                            "function": "set_count"
+                        },
+                        {
+                            "data": 0,
+                            "function": "set_data"
+                        }
+                    ],
+                    "name": "minecraft:ender_pearl",
+                    "type": "item",
+                    "weight": 1
+                },
+                {
+                    "functions": [
+                        {
+                            "count": {
+                                "max": 10,
+                                "min": 1
+                            },
+                            "function": "set_count"
+                        },
+                        {
+                            "data": 0,
+                            "function": "set_data"
+                        }
+                    ],
+                    "name": "minecraft:apple",
+                    "type": "item",
+                    "weight": 1
+                },
+                {
+                    "functions": [
+                        {
+                            "count": {
+                                "max": 1,
+                                "min": 0
+                            },
+                            "function": "set_count"
+                        },
+                        {
+                            "data": 0,
+                            "function": "set_data"
+                        }
+                    ],
+                    "name": "minecraft:lapis_block",
+                    "type": "item",
+                    "weight": 1
+                },
+                {
+                    "functions": [
+                        {
+                            "count": {
+                                "max": 1,
+                                "min": 0
+                            },
+                            "function": "set_count"
+                        },
+                        {
+                            "data": 0,
+                            "function": "set_data"
+                        }
+                    ],
+                    "name": "minecraft:emerald_block",
+                    "type": "item",
+                    "weight": 1
+                },
+                {
+                    "functions": [
+                        {
+                            "count": {
+                                "max": 1,
+                                "min": 1
+                            },
+                            "function": "set_count"
+                        },
+                        {
+                            "data": 0,
+                            "function": "set_data"
+                        }
+                    ],
+                    "name": "minecraft:iron_block",
+                    "type": "item",
+                    "weight": 1
+                },
+                {
+                    "functions": [
+                        {
+                            "count": {
+                                "max": 1,
+                                "min": 0
+                            },
+                            "function": "set_count"
+                        },
+                        {
+                            "data": 0,
+                            "function": "set_data"
+                        }
+                    ],
+                    "name": "minecraft:gold_block",
+                    "type": "item",
+                    "weight": 1
+                },
+                {
+                    "functions": [
+                        {
+                            "count": {
+                                "max": 1,
+                                "min": 0
+                            },
+                            "function": "set_count"
+                        },
+                        {
+                            "data": 0,
+                            "function": "set_data"
+                        }
+                    ],
+                    "name": "minecraft:diamond_pickaxe",
+                    "type": "item",
+                    "weight": 1
+                },
+                {
+                    "functions": [
+                        {
+                            "count": {
+                                "max": 3,
+                                "min": 1
+                            },
+                            "function": "set_count"
+                        },
+                        {
+                            "data": 5,
+                            "function": "set_data"
+                        }
+                    ],
+                    "name": "minecraft:sapling",
+                    "type": "item",
+                    "weight": 1
+                },
+                {
+                    "functions": [
+                        {
+                            "count": {
+                                "max": 1,
+                                "min": 0
+                            },
+                            "function": "set_count"
+                        },
+                        {
+                            "data": 0,
+                            "function": "set_data"
+                        }
+                    ],
+                    "name": "xhz:basketball",
+                    "type": "item",
+                    "weight": 1
+                },
+                {
+                    "functions": [
+                        {
+                            "count": {
+                                "max": 1,
+                                "min": 0
+                            },
+                            "function": "set_count"
+                        },
+                        {
+                            "data": 0,
+                            "function": "set_data"
+                        }
+                    ],
+                    "name": "minecraft:diamond_sword",
+                    "type": "item",
+                    "weight": 1
+                },
+                {
+                    "functions": [
+                        {
+                            "count": {
+                                "max": 1,
+                                "min": 0
+                            },
+                            "function": "set_count"
+                        },
+                        {
+                            "data": 0,
+                            "function": "set_data"
+                        }
+                    ],
+                    "name": "minecraft:netherite_block",
+                    "type": "item",
+                    "weight": 1
+                },
+                {
+                    "functions": [
+                        {
+                            "count": {
+                                "max": 3,
+                                "min": 0
+                            },
+                            "function": "set_count"
+                        },
+                        {
+                            "data": 0,
+                            "function": "set_data"
+                        }
+                    ],
+                    "name": "minecraft:netherite_ingot",
+                    "type": "item",
+                    "weight": 1
+                },
+                {
+                    "functions": [
+                        {
+                            "count": {
+                                "max": 5,
+                                "min": 1
+                            },
+                            "function": "set_count"
+                        },
+                        {
+                            "data": 0,
+                            "function": "set_data"
+                        }
+                    ],
+                    "name": "minecraft:copper_block",
+                    "type": "item",
+                    "weight": 1
+                },
+                {
+                    "functions": [
+                        {
+                            "count": {
+                                "max": 1,
+                                "min": 0
+                            },
+                            "function": "set_count"
+                        },
+                        {
+                            "data": 0,
+                            "function": "set_data"
+                        }
+                    ],
+                    "name": "minecraft:raw_gold_block",
+                    "type": "item",
+                    "weight": 1
+                },
+                {
+                    "functions": [
+                        {
+                            "count": {
+                                "max": 2,
+                                "min": 1
+                            },
+                            "function": "set_count"
+                        },
+                        {
+                            "data": 0,
+                            "function": "set_data"
+                        }
+                    ],
+                    "name": "minecraft:raw_copper_block",
+                    "type": "item",
+                    "weight": 1
+                },
+                {
+                    "functions": [
+                        {
+                            "count": {
+                                "max": 2,
+                                "min": 1
+                            },
+                            "function": "set_count"
+                        },
+                        {
+                            "data": 0,
+                            "function": "set_data"
+                        }
+                    ],
+                    "name": "minecraft:raw_iron_block",
+                    "type": "item",
+                    "weight": 1
+                },
+                {
+                    "functions": [
+                        {
+                            "count": {
+                                "max": 2,
+                                "min": 1
+                            },
+                            "function": "set_count"
+                        },
+                        {
+                            "data": 0,
+                            "function": "set_data"
+                        }
+                    ],
+                    "name": "minecraft:slime",
+                    "type": "item",
+                    "weight": 1
+                },
+                {
+                    "functions": [
+                        {
+                            "count": {
+                                "max": 5,
+                                "min": 1
+                            },
+                            "function": "set_count"
+                        },
+                        {
+                            "data": 0,
+                            "function": "set_data"
+                        }
+                    ],
+                    "name": "minecraft:magma",
+                    "type": "item",
+                    "weight": 1
+                },
+                {
+                    "functions": [
+                        {
+                            "count": {
+                                "max": 2,
+                                "min": 1
+                            },
+                            "function": "set_count"
+                        },
+                        {
+                            "data": 0,
+                            "function": "set_data"
+                        }
+                    ],
+                    "name": "minecraft:light_blue_candle",
+                    "type": "item",
+                    "weight": 1
+                },
+                {
+                    "functions": [
+                        {
+                            "count": {
+                                "max": 6,
+                                "min": 1
+                            },
+                            "function": "set_count"
+                        },
+                        {
+                            "data": 0,
+                            "function": "set_data"
+                        }
+                    ],
+                    "name": "minecraft:snowball",
+                    "type": "item",
+                    "weight": 2
+                },
+                {
+                    "functions": [
+                        {
+                            "count": {
+                                "max": 1,
+                                "min": 0
+                            },
+                            "function": "set_count"
+                        },
+                        {
+                            "data": 0,
+                            "function": "set_data"
+                        }
+                    ],
+                    "name": "minecraft:diamond_helmet",
+                    "type": "item",
+                    "weight": 1
+                },
+                {
+                    "functions": [
+                        {
+                            "count": {
+                                "max": 1,
+                                "min": 1
+                            },
+                            "function": "set_count"
+                        },
+                        {
+                            "data": 0,
+                            "function": "set_data"
+                        }
+                    ],
+                    "name": "minecraft:bamboo",
+                    "type": "item",
+                    "weight": 2
+                }
+            ],
+            "rolls": 1
+        },
+        {
+            "entries": [
+                {
+                    "functions": [
+                        {
+                            "count": {
+                                "max": 2,
+                                "min": 1
+                            },
+                            "function": "set_count"
+                        },
+                        {
+                            "data": 0,
+                            "function": "set_data"
+                        }
+                    ],
+                    "name": "minecraft:chicken",
+                    "type": "item",
+                    "weight": 3
+                },
+                {
+                    "functions": [
+                        {
+                            "count": {
+                                "max": 6,
+                                "min": 1
+                            },
+                            "function": "set_count"
+                        },
+                        {
+                            "data": 0,
+                            "function": "set_data"
+                        }
+                    ],
+                    "name": "minecraft:cooked_chicken",
+                    "type": "item",
+                    "weight": 2
+                },
+                {
+                    "functions": [
+                        {
+                            "count": {
+                                "max": 1,
+                                "min": 1
+                            },
+                            "function": "set_count"
+                        },
+                        {
+                            "data": 0,
+                            "function": "set_data"
+                        }
+                    ],
+                    "name": "minecraft:egg",
+                    "type": "item",
+                    "weight": 1
+                },
+                {
+                    "functions": [
+                        {
+                            "count": {
+                                "max": 10,
+                                "min": 1
+                            },
+                            "function": "set_count"
+                        },
+                        {
+                            "data": 0,
+                            "function": "set_data"
+                        }
+                    ],
+                    "name": "minecraft:feather",
+                    "type": "item",
+                    "weight": 1
+                }
+            ],
+            "rolls": 1
+        }
+    ]
+}

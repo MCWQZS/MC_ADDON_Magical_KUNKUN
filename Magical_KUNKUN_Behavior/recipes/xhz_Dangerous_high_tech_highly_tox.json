@@ -1,0 +1,38 @@
+{
+    "format_version": "1.12",
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "more_tools:fdgbjnmklgjbk"
+        },
+        "ingredients": [
+            {
+                "count": 1,
+                "data": 0,
+                "item": "xhz:Strange_tech_products"
+            },
+            {
+                "count": 2,
+                "data": 0,
+                "item": "xhz:basketball"
+            },
+            {
+                "count": 3,
+                "data": 0,
+                "item": "minecraft:rotten_flesh"
+            },
+            {
+                "count": 1,
+                "data": 0,
+                "item": "minecraft:copper_ingot"
+            }
+        ],
+        "result": {
+            "count": 1,
+            "data": 0,
+            "item": "minecraft:diamond_sword"
+        },
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

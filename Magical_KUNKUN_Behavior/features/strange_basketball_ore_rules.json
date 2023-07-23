@@ -1,0 +1,20 @@
+{
+    "format_version": "1.16.100",
+    "minecraft:ore_feature": {
+        "description": {
+            "identifier": "xhz:strange_basketball_ore_rules"
+        },
+        "count": 8,
+        "places_structure": "xhz:strange_basketball_ore_rules",
+        "rotation": 0,
+        "replace_rules": [
+            {
+              "places_block": "xhz:strange_basketball_ore",
+              "may_replace": [
+                "minecraft:stone",
+                "minecraft:deepslate"
+              ]
+            }
+          ]
+    }
+}
